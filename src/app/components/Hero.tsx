@@ -350,7 +350,7 @@ export default function Hero() {
               </Link>
 
               <Link
-                href="https://drive.proton.me/urls/TP91KF853M#cQz2bligep2m"
+                href=""
                 className={`resumeButton buttonEffect group/resume ${isResumeClicked ? "buttonClicked" : ""}`}
                 onMouseEnter={() => handleResumeInteraction("hover")}
                 onMouseLeave={() => handleResumeInteraction("leave")}
