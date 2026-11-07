@@ -56,7 +56,7 @@ const projectsData = [
       { id: 5, name: "Tailwind CSS", icon: "/logos/tailwind.svg" },
     ],
     githubUrl: "https://github.com/Ahnaf-Shahriar-369/geminiecho.git",
-    liveUrl: "https://gemini-echo-final.vercel.app/",
+    liveUrl: "https://gemini-echo-nine.vercel.app",
     imageUrl: "/ggai.webp",
   },
   {
