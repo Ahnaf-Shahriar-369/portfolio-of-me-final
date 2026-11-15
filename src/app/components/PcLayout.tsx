@@ -39,7 +39,7 @@ const projectsData = [
       { id: 5, name: "Tailwind CSS", icon: "/logos/tailwind.svg" },
     ],
     githubUrl: "https://github.com/Ahnaf-Shahriar-369/Qamsqanner.git",
-    liveUrl: "https://qamscanner1.vercel.app",
+    liveUrl: "https://qamscanner-bd.vercel.app/",
     imageUrl: "/qamsqanner.webp",
     videoUrl: ""
   },
